@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T06:50:54.181Z" agent="5.0 (Windows)" etag="prQ7oRHIdsSiuSlA_qCm" version="13.8.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-10-23T06:52:27.698Z" agent="5.0 (Windows)" etag="L7SNATKq_z9ZArOYIXj-" version="13.8.1" type="github" pages="8">
   <diagram id="Ggrinw4O46cQOI9oRwe4" name="Page-1">
     <mxGraphModel dx="868" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1294,6 +1294,174 @@
           <mxGeometry x="300" y="640" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pe41jbygmy533PDG7-rL-81" value="設計書など" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="pe41jbygmy533PDG7-rL-1">
+          <mxGeometry x="350" y="640" width="88.45" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Copy of page-5" id="fYef_807Hx8lbiLyNelz">
+    <mxGraphModel dx="868" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#EEEEEE" math="0" shadow="0">
+      <root>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-0" />
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-1" parent="UI0CBhQdNzqjtEujk0Vg-0" />
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="UI0CBhQdNzqjtEujk0Vg-1" source="UI0CBhQdNzqjtEujk0Vg-3" target="UI0CBhQdNzqjtEujk0Vg-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="770" />
+              <mxPoint x="290" y="770" />
+              <mxPoint x="290" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-3" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="320" y="710" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-4" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="430" y="350" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-5" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="430" y="140" width="220" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;labelBackgroundColor=#EEEEEE;strokeColor=#182E3E;fontColor=#1A1A1A;" edge="1" parent="UI0CBhQdNzqjtEujk0Vg-1" source="UI0CBhQdNzqjtEujk0Vg-8" target="UI0CBhQdNzqjtEujk0Vg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="UI0CBhQdNzqjtEujk0Vg-1" source="UI0CBhQdNzqjtEujk0Vg-8" target="UI0CBhQdNzqjtEujk0Vg-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-8" value="k8s" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/folder-128.png;horizontal=1;labelBackgroundColor=#EEEEEE;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="119.99999999999999" y="140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-9" value="README.md" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#909090;fillColor=#F5AB50;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="461.53999999999996" y="720" width="13.09" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-10" value="dsp4c-infra-common" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-networks-3/512/github-128.png;labelBackgroundColor=#EEEEEE;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="70" y="60" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-11" value="config" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/folder-128.png;labelBackgroundColor=#EEEEEE;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="300" y="140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;labelBackgroundColor=#EEEEEE;strokeColor=#182E3E;fontColor=#1A1A1A;" edge="1" parent="UI0CBhQdNzqjtEujk0Vg-1" source="UI0CBhQdNzqjtEujk0Vg-14" target="UI0CBhQdNzqjtEujk0Vg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="UI0CBhQdNzqjtEujk0Vg-1" source="UI0CBhQdNzqjtEujk0Vg-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-14" value="common" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/folder-128.png;labelBackgroundColor=#EEEEEE;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="360" y="140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-15" value="db2jcc4.jar" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#909090;fillColor=#F5AB50;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="588.45" y="150" width="13.09" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-16" value="db2jcc_license_cu.jar" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#909090;fillColor=#F5AB50;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="488.45000000000005" y="150" width="13.09" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-17" value="bootstrap.properties" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#909090;fillColor=#F5AB50;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="488.45" y="210" width="13.09" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-18" value="jvm.options" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#909090;fillColor=#F5AB50;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="588.45" y="210" width="13.09" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-19" value="server.env" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#909090;fillColor=#F5AB50;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="488.45000000000005" y="270" width="13.09" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;labelBackgroundColor=#EEEEEE;strokeColor=#182E3E;fontColor=#1A1A1A;" edge="1" parent="UI0CBhQdNzqjtEujk0Vg-1" source="UI0CBhQdNzqjtEujk0Vg-21" target="UI0CBhQdNzqjtEujk0Vg-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="365" />
+              <mxPoint x="340" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-21" value="bff" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/folder-128.png;labelBackgroundColor=#EEEEEE;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="361.54999999999995" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;labelBackgroundColor=#EEEEEE;strokeColor=#182E3E;fontColor=#1A1A1A;" edge="1" parent="UI0CBhQdNzqjtEujk0Vg-1" source="UI0CBhQdNzqjtEujk0Vg-24" target="UI0CBhQdNzqjtEujk0Vg-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="515" />
+              <mxPoint x="340" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.115;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="UI0CBhQdNzqjtEujk0Vg-1" source="UI0CBhQdNzqjtEujk0Vg-24" target="UI0CBhQdNzqjtEujk0Vg-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-24" value="bfo" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/folder-128.png;labelBackgroundColor=#EEEEEE;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="361.54999999999995" y="500" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;labelBackgroundColor=#EEEEEE;strokeColor=#182E3E;fontColor=#1A1A1A;" edge="1" parent="UI0CBhQdNzqjtEujk0Vg-1" target="UI0CBhQdNzqjtEujk0Vg-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="365" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-26" value="cacert.p12" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#909090;fillColor=#F5AB50;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="588.45" y="360" width="13.09" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-27" value="digitalapp-bff_prd.p12" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#909090;fillColor=#F5AB50;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="488.45000000000005" y="360" width="13.09" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-28" value="digitalapp-bff_reg.p12" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#909090;fillColor=#F5AB50;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="488.45" y="420" width="13.09" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-29" value="Dockerfile_com" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#909090;fillColor=#F5AB50;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="370" y="720" width="13.09" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-30" value="server.xml" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#909090;fillColor=#F5AB50;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="588.45" y="420" width="13.09" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-31" value="server.xml" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#909090;fillColor=#F5AB50;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="588.45" y="270" width="13.09" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="UI0CBhQdNzqjtEujk0Vg-1" source="UI0CBhQdNzqjtEujk0Vg-33" target="UI0CBhQdNzqjtEujk0Vg-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-33" value="Liberty" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/folder-128.png;horizontal=1;labelBackgroundColor=#EEEEEE;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="180" y="140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="UI0CBhQdNzqjtEujk0Vg-1" source="UI0CBhQdNzqjtEujk0Vg-35" target="UI0CBhQdNzqjtEujk0Vg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-35" value="mebuki" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/folder-128.png;horizontal=1;labelBackgroundColor=#EEEEEE;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="240" y="140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-36" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="430" y="500" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-37" value="cacert.p12" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#909090;fillColor=#F5AB50;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="588.45" y="510" width="13.09" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-38" value="digitalapp-bfo_prd.p12" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#909090;fillColor=#F5AB50;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="488.45000000000005" y="510" width="13.09" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-39" value="digitalapp-bfo_reg.p12" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#909090;fillColor=#F5AB50;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="488.45" y="570" width="13.09" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-40" value="server.xml" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#909090;fillColor=#F5AB50;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="588.45" y="570" width="13.09" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-41" value="Dockerfile_bff" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#909090;fillColor=#F5AB50;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="370" y="780" width="13.09" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-42" value="Dockerfile_bfo" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#909090;fillColor=#F5AB50;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="461.53999999999996" y="780" width="13.09" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="UI0CBhQdNzqjtEujk0Vg-1" source="UI0CBhQdNzqjtEujk0Vg-45" target="UI0CBhQdNzqjtEujk0Vg-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="655" />
+              <mxPoint x="290" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="UI0CBhQdNzqjtEujk0Vg-1" source="UI0CBhQdNzqjtEujk0Vg-45" target="UI0CBhQdNzqjtEujk0Vg-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-45" value="Docs" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/folder-128.png;labelBackgroundColor=#EEEEEE;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
+          <mxGeometry x="300" y="640" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UI0CBhQdNzqjtEujk0Vg-46" value="設計書など" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="UI0CBhQdNzqjtEujk0Vg-1">
           <mxGeometry x="350" y="640" width="88.45" height="60" as="geometry" />
         </mxCell>
       </root>
