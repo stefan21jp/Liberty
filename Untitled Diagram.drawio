@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T08:53:07.242Z" agent="5.0 (Windows)" etag="9ApcEIVWB2OkUEojcus9" version="14.4.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-03-13T14:33:17.596Z" agent="5.0 (Windows)" etag="sahgZa_h88PGWjiUc3Eb" version="14.4.2" type="github" pages="13">
   <diagram id="Ggrinw4O46cQOI9oRwe4" name="Page-1">
     <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2174,14 +2174,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mF-zJ9zJftSC47oTj0x8" name="Page-12">
-    <mxGraphModel dx="1117" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Yn2sEKC2l-8R5ZAvah4X-0" />
         <mxCell id="Yn2sEKC2l-8R5ZAvah4X-1" parent="Yn2sEKC2l-8R5ZAvah4X-0" />
-        <mxCell id="UXGTQwp7nTUuj5j2c0-J-8" value="&lt;div align=&quot;center&quot;&gt;Tok04 IKS&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="Yn2sEKC2l-8R5ZAvah4X-1">
+        <mxCell id="UXGTQwp7nTUuj5j2c0-J-8" value="&lt;div align=&quot;center&quot;&gt;Tok04 IKS&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Yn2sEKC2l-8R5ZAvah4X-1">
           <mxGeometry x="130" y="270" width="290" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="UXGTQwp7nTUuj5j2c0-J-7" value="&lt;div align=&quot;center&quot;&gt;Tok02 IKS&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="Yn2sEKC2l-8R5ZAvah4X-1">
+        <mxCell id="UXGTQwp7nTUuj5j2c0-J-7" value="&lt;div align=&quot;center&quot;&gt;Tok02 IKS&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Yn2sEKC2l-8R5ZAvah4X-1">
           <mxGeometry x="130" y="90" width="290" height="130" as="geometry" />
         </mxCell>
         <mxCell id="UXGTQwp7nTUuj5j2c0-J-9" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=0;exitDx=0;exitDy=4.35;exitPerimeter=0;entryX=0.995;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#3333FF;" edge="1" parent="Yn2sEKC2l-8R5ZAvah4X-1" source="UXGTQwp7nTUuj5j2c0-J-0" target="UXGTQwp7nTUuj5j2c0-J-10">
@@ -2396,6 +2396,9 @@
         </mxCell>
         <mxCell id="LECYD8pU2fIH7VE4rbDU-40" value="pytho HC pod_ICLB" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#FFD44F;gradientColor=none;strokeColor=#FFB570;fontSize=14;" vertex="1" parent="_ZWM2-Q0xl9XGYHP8xhi-1">
           <mxGeometry x="200" y="342" width="43.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hO_JdiluFxa6qIQuVGP9-0" value="&lt;div&gt;※前提条件&lt;/div&gt;&lt;div&gt;計画停止時は、pod の停止の前に HC pod を先に停止する必要がある。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFB570;fillColor=#66FF66;fontSize=14;align=left;" vertex="1" parent="_ZWM2-Q0xl9XGYHP8xhi-1">
+          <mxGeometry x="140" y="510" width="480" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
