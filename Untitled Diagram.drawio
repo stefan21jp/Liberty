@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T17:38:48.543Z" agent="5.0 (Windows)" etag="Jq_2PKMm25kHwuY1WsRN" version="14.4.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-03-13T17:49:49.615Z" agent="5.0 (Windows)" etag="sQSePFPiC9VAVKIpI8MM" version="14.4.2" type="github" pages="13">
   <diagram id="Ggrinw4O46cQOI9oRwe4" name="Page-1">
     <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2271,13 +2271,13 @@
         <mxCell id="UXGTQwp7nTUuj5j2c0-J-29" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Yn2sEKC2l-8R5ZAvah4X-1">
           <mxGeometry x="510" y="130" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UXGTQwp7nTUuj5j2c0-J-32" value="&lt;div style=&quot;font-size: 14px&quot;&gt;1. Tok04 のプライマリ DB のダウンを検知&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;2. Tok05 から Tok02 IKS 上のバッチ MS を起動&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;3. ①と②のホストに対して死活監視し、①NG ②OK のバターンのみ CoreDNS を更新する。&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;1. Tok02 がプライマリの時にダウンを検知&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;2. Tok05 から Tok04 IKS 上のバッチ MS を起動&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;3. ③と④のホストに対して死活監視し、③NG ④OK のバターンのみ CoreDNS を更新する。&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;※前提条件：&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;・Tok05 は DB のダウンではなく、takeover を検知してバッチ MS をキックできること。&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;・DB の戻し作業が発生したときは、全 pod の停止が発生する際に、CoreDNS も手動で元の状態に戻すこと。&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;fillColor=#fff2cc;strokeColor=#FFB570;" vertex="1" parent="Yn2sEKC2l-8R5ZAvah4X-1">
-          <mxGeometry x="120" y="450" width="630" height="260" as="geometry" />
+        <mxCell id="UXGTQwp7nTUuj5j2c0-J-32" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;1. Tok04 のプライマリ DB のダウンを検知&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;2. Tok05 から Tok02 IKS 上のバッチ MS を起動&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;3. ①と②のホストに対して死活監視し、①NG ②OK のバターンのみ CoreDNS を更新する。&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;1. Tok02 がプライマリの時にダウンを検知&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;2. Tok05 から Tok04 IKS 上のバッチ MS を起動&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;3. ③と④のホストに対して死活監視し、③NG ④OK のバターンのみ CoreDNS を更新する。&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;※前提条件：&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;・Tok05 は DB のダウンではなく、takeover を検知してバッチ MS をキックできること。&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;・DB の戻し作業が発生したときは、全 pod の停止が発生する際に、CoreDNS も手動で元の状態に戻すこと。&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;・Tok02 と Tok04 に同じ python Pod をデプロイできるように、ロジックで①②③④と CoreDNS の更新を実装する。&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=12;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="Yn2sEKC2l-8R5ZAvah4X-1">
+          <mxGeometry x="120" y="450" width="640" height="220" as="geometry" />
         </mxCell>
         <mxCell id="UXGTQwp7nTUuj5j2c0-J-33" value="" style="endArrow=classic;html=1;strokeColor=#FF0000;fontSize=14;" edge="1" parent="Yn2sEKC2l-8R5ZAvah4X-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="540" as="sourcePoint" />
-            <mxPoint x="120" y="540" as="targetPoint" />
+            <mxPoint x="160" y="530" as="sourcePoint" />
+            <mxPoint x="120" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UXGTQwp7nTUuj5j2c0-J-34" value="" style="endArrow=classic;html=1;fontSize=14;strokeColor=#3333FF;" edge="1" parent="Yn2sEKC2l-8R5ZAvah4X-1">
