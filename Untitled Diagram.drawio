@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T06:59:19.114Z" agent="5.0 (Windows)" etag="3nWML12zRkwzZintUSgk" version="14.4.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2021-03-23T08:17:35.929Z" agent="5.0 (Windows)" etag="epJV4AjKGXwdy2ouHSvq" version="14.4.2" type="github" pages="16">
   <diagram id="Ggrinw4O46cQOI9oRwe4" name="Page-1">
     <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2866,6 +2866,12 @@
         </mxCell>
         <mxCell id="QOyKwuLOvReUUt8SsDEQ-7" value="新規作成 ICLB Weight Change Container" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UYsLOccYRBx0Ew1XZwLJ-1">
           <mxGeometry x="520.94" y="30" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QOyKwuLOvReUUt8SsDEQ-8" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="UYsLOccYRBx0Ew1XZwLJ-1">
+          <mxGeometry x="530" y="680" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QOyKwuLOvReUUt8SsDEQ-9" value="&lt;div&gt;考慮事項：&lt;/div&gt;&lt;div&gt;手動で ICLB の Weight を 0 に変更したときに、上記のロジックだと Pod が生きているなら ICLB の Weight を 100 に更新するため、こちらの HC Pod を停止してから手動で ICLB を更新するか、何か手動で更新したことが分かるものを作成する必要がある。&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="UYsLOccYRBx0Ew1XZwLJ-1">
+          <mxGeometry x="56.84" y="820" width="614.1" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
