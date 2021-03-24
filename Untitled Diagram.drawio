@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T09:15:20.309Z" agent="5.0 (Windows)" etag="23qBVRMIw8g9ZmBvGQO4" version="14.4.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2021-03-24T15:16:16.179Z" agent="5.0 (Windows)" etag="1twK6AFV-3xaogGHTUAY" version="14.4.2" type="github" pages="16">
   <diagram id="Ggrinw4O46cQOI9oRwe4" name="Page-1">
     <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2740,14 +2740,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P7Qo0cOvjmZxz8AvrFkN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="UYsLOccYRBx0Ew1XZwLJ-1" source="P7Qo0cOvjmZxz8AvrFkN-5" target="P7Qo0cOvjmZxz8AvrFkN-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="50" y="375" />
-              <mxPoint x="50" y="240" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="P7Qo0cOvjmZxz8AvrFkN-5" value="&lt;div&gt;2系ダメな Podが&lt;/div&gt;&lt;div&gt;一つでもある&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="UYsLOccYRBx0Ew1XZwLJ-1">
           <mxGeometry x="89.96000000000001" y="310" width="131.88" height="130" as="geometry" />
         </mxCell>
@@ -2869,6 +2861,9 @@
         </mxCell>
         <mxCell id="QOyKwuLOvReUUt8SsDEQ-9" value="&lt;div&gt;考慮事項：&lt;/div&gt;&lt;div&gt;手動で ICLB の Weight を 0 に変更したときに、上記のロジックだと Pod が生きているなら ICLB の Weight を 100 に更新するため、こちらの HC Pod を停止してから手動で ICLB を更新するか、何か手動で更新したことが分かるものを作成する必要がある。&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="UYsLOccYRBx0Ew1XZwLJ-1">
           <mxGeometry x="56.84" y="820" width="614.1" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="QOyKwuLOvReUUt8SsDEQ-10" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="UYsLOccYRBx0Ew1XZwLJ-1">
+          <mxGeometry x="470" y="530" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
