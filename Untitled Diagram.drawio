@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T15:16:16.179Z" agent="5.0 (Windows)" etag="1twK6AFV-3xaogGHTUAY" version="14.4.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2021-04-12T04:59:32.582Z" agent="5.0 (Windows)" etag="bopApNn7Nzz4Y6T7lb-t" version="14.5.10" type="github" pages="16">
   <diagram id="Ggrinw4O46cQOI9oRwe4" name="Page-1">
     <mxGraphModel dx="782" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2311,7 +2311,7 @@
       <root>
         <mxCell id="7a0w_GHC6RNPR0CQaUL4-0" />
         <mxCell id="7a0w_GHC6RNPR0CQaUL4-1" parent="7a0w_GHC6RNPR0CQaUL4-0" />
-        <mxCell id="7a0w_GHC6RNPR0CQaUL4-31" value="&lt;div&gt;k7dpdb3s&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;fontSize=12;align=center;fontColor=#333333;" parent="7a0w_GHC6RNPR0CQaUL4-1" vertex="1">
+        <mxCell id="7a0w_GHC6RNPR0CQaUL4-31" value="&lt;div&gt;k7dpdb3s&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontSize=12;align=center;" parent="7a0w_GHC6RNPR0CQaUL4-1" vertex="1">
           <mxGeometry x="310" y="170" width="210" height="160" as="geometry" />
         </mxCell>
         <mxCell id="7a0w_GHC6RNPR0CQaUL4-29" value="&lt;div&gt;シェール&lt;/div&gt;&lt;div&gt;スクリプト&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#BD7000;fillColor=#f0a30a;fontSize=12;align=left;fontColor=#ffffff;" parent="7a0w_GHC6RNPR0CQaUL4-1" vertex="1">
@@ -2327,30 +2327,32 @@
           <mxGeometry x="130" y="275" width="130" height="135" as="geometry" />
         </mxCell>
         <mxCell id="7a0w_GHC6RNPR0CQaUL4-5" value="&lt;div align=&quot;center&quot;&gt;Tok02 IKS&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="7a0w_GHC6RNPR0CQaUL4-1" vertex="1">
-          <mxGeometry x="130" y="70" width="130" height="150" as="geometry" />
+          <mxGeometry x="130" y="80" width="130" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7a0w_GHC6RNPR0CQaUL4-8" value="Tok05" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="7a0w_GHC6RNPR0CQaUL4-1" vertex="1">
           <mxGeometry x="440" y="210" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7a0w_GHC6RNPR0CQaUL4-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=-15;exitPerimeter=0;strokeColor=#3333FF;dashed=1;dashPattern=1 1;endArrow=classic;endFill=0;" parent="7a0w_GHC6RNPR0CQaUL4-1" source="7a0w_GHC6RNPR0CQaUL4-10" target="7a0w_GHC6RNPR0CQaUL4-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7a0w_GHC6RNPR0CQaUL4-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=-15;exitPerimeter=0;strokeColor=#3333FF;dashed=1;dashPattern=1 1;endArrow=classic;endFill=0;strokeWidth=3;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="7a0w_GHC6RNPR0CQaUL4-1" source="7a0w_GHC6RNPR0CQaUL4-10" target="7a0w_GHC6RNPR0CQaUL4-29" edge="1">
+          <mxGeometry x="130" y="80" as="geometry">
+            <mxPoint x="410" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7a0w_GHC6RNPR0CQaUL4-10" value="Tok04" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="7a0w_GHC6RNPR0CQaUL4-1" vertex="1">
           <mxGeometry x="635" y="130" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7a0w_GHC6RNPR0CQaUL4-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;strokeColor=#FF0000;dashed=1;dashPattern=1 1;endArrow=classic;endFill=0;" parent="7a0w_GHC6RNPR0CQaUL4-1" source="7a0w_GHC6RNPR0CQaUL4-12" target="7a0w_GHC6RNPR0CQaUL4-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7a0w_GHC6RNPR0CQaUL4-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;strokeColor=#FF0000;dashed=1;dashPattern=1 1;endArrow=classic;endFill=0;strokeWidth=3;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="7a0w_GHC6RNPR0CQaUL4-1" source="7a0w_GHC6RNPR0CQaUL4-12" target="7a0w_GHC6RNPR0CQaUL4-29" edge="1">
+          <mxGeometry x="130" y="80" as="geometry" />
         </mxCell>
         <mxCell id="7a0w_GHC6RNPR0CQaUL4-12" value="Tok02" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="7a0w_GHC6RNPR0CQaUL4-1" vertex="1">
           <mxGeometry x="635" y="290" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7a0w_GHC6RNPR0CQaUL4-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3333FF;" parent="7a0w_GHC6RNPR0CQaUL4-1" source="7a0w_GHC6RNPR0CQaUL4-29" target="7a0w_GHC6RNPR0CQaUL4-28" edge="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="7a0w_GHC6RNPR0CQaUL4-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3333FF;strokeWidth=3;" parent="7a0w_GHC6RNPR0CQaUL4-1" source="7a0w_GHC6RNPR0CQaUL4-29" target="7a0w_GHC6RNPR0CQaUL4-28" edge="1">
+          <mxGeometry x="130" y="80" as="geometry">
             <mxPoint x="325.25" y="180.24" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7a0w_GHC6RNPR0CQaUL4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;dashed=1;" parent="7a0w_GHC6RNPR0CQaUL4-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="130" y="80" as="geometry">
             <mxPoint x="610" y="150" as="targetPoint" />
             <Array as="points">
               <mxPoint x="370" y="230" />
@@ -2362,11 +2364,11 @@
         <mxCell id="7a0w_GHC6RNPR0CQaUL4-16" value="CoreDNS" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="7a0w_GHC6RNPR0CQaUL4-1" vertex="1">
           <mxGeometry x="140" y="310" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7a0w_GHC6RNPR0CQaUL4-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" parent="7a0w_GHC6RNPR0CQaUL4-1" source="7a0w_GHC6RNPR0CQaUL4-29" target="7a0w_GHC6RNPR0CQaUL4-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7a0w_GHC6RNPR0CQaUL4-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=3;" parent="7a0w_GHC6RNPR0CQaUL4-1" source="7a0w_GHC6RNPR0CQaUL4-29" target="7a0w_GHC6RNPR0CQaUL4-16" edge="1">
+          <mxGeometry x="130" y="80" as="geometry" />
         </mxCell>
         <mxCell id="7a0w_GHC6RNPR0CQaUL4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#FF0000;" parent="7a0w_GHC6RNPR0CQaUL4-1" source="7a0w_GHC6RNPR0CQaUL4-29" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="130" y="80" as="geometry">
             <mxPoint x="610" y="360" as="targetPoint" />
             <Array as="points">
               <mxPoint x="370" y="270" />
@@ -2376,7 +2378,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7a0w_GHC6RNPR0CQaUL4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#FF0000;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="7a0w_GHC6RNPR0CQaUL4-1" source="7a0w_GHC6RNPR0CQaUL4-29" target="7a0w_GHC6RNPR0CQaUL4-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="130" y="80" as="geometry">
             <mxPoint x="660" y="380" as="targetPoint" />
             <Array as="points">
               <mxPoint x="348" y="410" />
@@ -2399,25 +2401,25 @@
           <mxGeometry x="440" y="130" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7a0w_GHC6RNPR0CQaUL4-25" value="&lt;div style=&quot;font-size: 12px&quot;&gt;1. Tok04 のプライマリ DB のダウンを検知&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;2. Tok05 の TSA から シェールスクリプトを起動&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;3. ①と②のホストに対して死活監視(ping)し、①NG ②OK のバターンのみ CoreDNS を更新する。&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;1. Tok02 がプライマリの時にダウンを検知&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;2. Tok05 の TSA から シェールスクリプトを起動&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;3. ③と④のホストに対して死活監視(ping)し、③NG ④OK のバターンのみ CoreDNS を更新する。&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;※前提条件：&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;・Tok05 は DB のダウンではなく、takeover を検知してシェールスクリプトをキックすること。&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;・DB の戻し作業が発生したときは、全 pod の停止が発生する際に、CoreDNS も手動で元の状態に戻すこと。&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=12;fillColor=#ffcccc;strokeColor=#36393d;" parent="7a0w_GHC6RNPR0CQaUL4-1" vertex="1">
-          <mxGeometry x="130" y="440" width="640" height="230" as="geometry" />
+          <mxGeometry x="130" y="440" width="620" height="230" as="geometry" />
         </mxCell>
         <mxCell id="7a0w_GHC6RNPR0CQaUL4-26" value="" style="endArrow=classic;html=1;strokeColor=#FF0000;fontSize=14;" parent="7a0w_GHC6RNPR0CQaUL4-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="130" y="80" width="50" height="50" as="geometry">
             <mxPoint x="170" y="520" as="sourcePoint" />
             <mxPoint x="130" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7a0w_GHC6RNPR0CQaUL4-27" value="" style="endArrow=classic;html=1;fontSize=14;strokeColor=#3333FF;" parent="7a0w_GHC6RNPR0CQaUL4-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="130" y="80" width="50" height="50" as="geometry">
             <mxPoint x="170" y="450" as="sourcePoint" />
             <mxPoint x="130" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7a0w_GHC6RNPR0CQaUL4-28" value="CoreDNS" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="7a0w_GHC6RNPR0CQaUL4-1" vertex="1">
-          <mxGeometry x="140" y="130" width="60" height="60" as="geometry" />
+          <mxGeometry x="140" y="115" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7a0w_GHC6RNPR0CQaUL4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#3333FF;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="7a0w_GHC6RNPR0CQaUL4-1" target="7a0w_GHC6RNPR0CQaUL4-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="130" y="80" as="geometry">
             <mxPoint x="350" y="230" as="sourcePoint" />
             <mxPoint x="660" y="298" as="targetPoint" />
             <Array as="points">
@@ -2425,12 +2427,6 @@
               <mxPoint x="740" y="100" />
               <mxPoint x="740" y="298" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7a0w_GHC6RNPR0CQaUL4-34" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B5739D;" parent="7a0w_GHC6RNPR0CQaUL4-1" source="7a0w_GHC6RNPR0CQaUL4-8" target="7a0w_GHC6RNPR0CQaUL4-29" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="270" as="sourcePoint" />
-            <mxPoint x="440" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Znhh9z8dyFefze5BitSZ-1" value="ダウン検知" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" parent="7a0w_GHC6RNPR0CQaUL4-1" vertex="1">
@@ -2444,6 +2440,15 @@
         </mxCell>
         <mxCell id="Znhh9z8dyFefze5BitSZ-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Cancel-128.png;fontColor=#CC0000;align=center;" parent="7a0w_GHC6RNPR0CQaUL4-1" vertex="1">
           <mxGeometry x="555" y="290" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9SfQW4lL8iP6s9e-qWLl-0" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#A50040;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.update;fontColor=#ffffff;fillColor=#FF8000;" vertex="1" parent="7a0w_GHC6RNPR0CQaUL4-1">
+          <mxGeometry x="231.2" y="160" width="28.8" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9SfQW4lL8iP6s9e-qWLl-3" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#A50040;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.intune.update;fontColor=#ffffff;fillColor=#FF8000;" vertex="1" parent="7a0w_GHC6RNPR0CQaUL4-1">
+          <mxGeometry x="231.2" y="300" width="28.8" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TsPDGWFLLbhV_WI62BLO-3" value="&lt;div align=&quot;left&quot;&gt;・Tok04 のRSCT プロセスが死んだとき&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-&amp;gt; Tok05 と Tok04 の繋がりが切れる。&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-&amp;gt; Tok02 をプライマリで稼働する。&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-&amp;gt; retry 繰り返し？&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-&amp;gt; OS再起動？&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-&amp;gt;リソースgroup切り替え？&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;・Ping 監視タイムアウト：&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;OS起動(&amp;lt;60s) + a&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-&amp;gt; 5分&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;・セカンダリに切り替わったことを確認せずにCoreDNS更新をキックする。&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;・TSA の監視(Tok04)間隔：??&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;・１分間隔で監視 -&amp;gt; 5分間Ping -&amp;gt; CoreDNS 更新&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="7a0w_GHC6RNPR0CQaUL4-1">
+          <mxGeometry x="770" y="70" width="300" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
